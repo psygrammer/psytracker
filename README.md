@@ -18,7 +18,7 @@
 |   | |(아이트래커) 2. To Track or Not to Track  |최준혁|[발표자료]() |
 |   | |(파이썬) 1. 시작하기 전에, 3. IPython 소개|김성근|[발표자료]() |
 | 2 |10/31|(아이트래커) 3. Eye Trackers and Other Necessary Resources|유광현|[발표자료]() |
-|   | |(아이트래커) 4. Time to Roll Up the Sleeves|박인경|[발표자료]() |
+|   | |(아이트래커) 4. Time to Roll Up the Sleeves|박인경|[발표자료](https://drive.google.com/file/d/0B6bh3lIFps2AM2hOSXg2Wk5wMnc/view) |
 |   | |(파이썬) 부록 파이썬 언어의 기본 (1)|김성근|[발표자료]() |
 | 3 |11/14|(아이트래커) 5. Combining Eye Tracking with Other Methods|윤태웅|[발표자료]() |
 |   | |(아이트래커) 6. Verbal Protocols and Eye Tracking|윤태웅|[발표자료]() |
