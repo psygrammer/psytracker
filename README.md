@@ -22,10 +22,10 @@
 |   | |(파이썬) 부록 파이썬 언어의 기본 (1)|김성근|[발표자료]() |
 | 3 |11/14|(아이트래커) 5. Combining Eye Tracking with Other Methods|윤태웅|[발표자료](https://drive.google.com/file/d/0B0dzDrijPVl1STlqQVk0MjhlZWs/view) |
 |   | |(아이트래커) 6. Verbal Protocols and Eye Tracking|윤태웅| |
-|   | |(파이썬) 부록 파이썬 언어의 기본 (1)|김성근| |
-| 4 |11/28|(아이트래커) 7. Eye Tracking Measures|||	
-|   | |(아이트래커) 8. No Participants, No Study|||	
-|   | |(파이썬) 4. Numpy 기본 : 배열과 벡터 계산||| 	
+|   | |(파이썬) 부록 파이썬 언어의 기본 (2)|김성근| |
+| 4 |11/28|(아이트래커) 7. Eye Tracking Measures|최준혁||	
+|   | |(아이트래커) 8. No Participants, No Study|최준혁||	
+|   | |(파이썬) 4. Numpy 기본 : 배열과 벡터 계산|김성근|| 	
 | 5 |12/12|(아이트래커) 9. It's Tracking Time!|||	
 |   | |(파이썬) 5. pandas 시작하기||| 	
 | 6 |1/9|(아이트래커) 10. Data Extraction and Preparation|||	
