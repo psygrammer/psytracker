@@ -33,4 +33,3 @@
 | 7 |1/23|(아이트래커) 11. Eye Tracking Data Visualizations|||	
 |   | |(파이썬) 7. 데이터 준비하기 : 다듬기, 변형, 병합||| 
 
-https://drive.google.com/file/d/0ByUllMkZFGQZUkI5OWpPcFZDX2s/view
