@@ -14,8 +14,8 @@
 
 | 회차  | 일시   | 내용                                  | 발표자  |              발표자료                    |
 | ----- |:------:| :-------------------------------------|:-------:|:----------------------------------------: |
-| 1 |10/17|(아이트래커) 1. Eye Tracking : What's All the Hoopla?  |최준혁|[발표자료](https://drive.google.com/file/d/0B4yBAE4bEc7SWU1vaXRUQzdQSFU/view] |
-|   | |(아이트래커) 2. To Track or Not to Track  |최준혁|[발표자료](https://drive.google.com/file/d/0B4yBAE4bEc7SWU1vaXRUQzdQSFU/view] |
+| 1 |10/17|(아이트래커) 1. Eye Tracking : What's All the Hoopla?  |최준혁|[발표자료](https://drive.google.com/file/d/0B4yBAE4bEc7SWU1vaXRUQzdQSFU/view)] |
+|   | |(아이트래커) 2. To Track or Not to Track  |최준혁|[발표자료](https://drive.google.com/file/d/0B4yBAE4bEc7SWU1vaXRUQzdQSFU/view)] |
 |   | |(파이썬) 1. 시작하기 전에|김성근|[발표자료](https://drive.google.com/file/d/0B_Ekt7icI0htelpvb09FNFpYNUk/view) |
 |   | |(파이썬) 3. IPython 소개|김성근|[발표자료](비어있음) |
 | 2 |10/31|(아이트래커) 3. Eye Trackers and Other Necessary Resources|유광현|[발표자료](https://drive.google.com/file/d/0B6bh3lIFps2AM2hOSXg2Wk5wMnc/view) |
