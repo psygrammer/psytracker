@@ -3,7 +3,7 @@
 
 # 스터디 정보 
 * 격주 토요일, 오전 10시 00분 ~ 오후01시 0분. 강남
-* 스터디 웹 페이지(일정 & 커리큘럼 & 발표자료) - http://psygement.github.io/psytracker/
+* 스터디 웹 페이지(일정 & 커리큘럼 & 발표자료) 
 
 # 교재 
 * Eye Tracking the User Experience:A Practical Guide to Research
@@ -24,8 +24,8 @@
 | 3 |11/14|(아이트래커) 5. Combining Eye Tracking with Other Methods|윤태웅|[발표자료](https://drive.google.com/file/d/0B0dzDrijPVl1STlqQVk0MjhlZWs/view) |
 |   | |(아이트래커) 6. Verbal Protocols and Eye Tracking|윤태웅| [발표자료](https://drive.google.com/file/d/0B0dzDrijPVl1STlqQVk0MjhlZWs/view) |
 |   | |(파이썬) 부록 파이썬 언어의 기본 (2)|김성근|[발표자료](https://github.com/psygrammer/psytracker/blob/master/part1/python/pytracker_2.ipynb) |
-| 4 |11/28|(아이트래커) 7. Eye Tracking Measures|최준혁|[발표자료](비어있음) |	
-|   | |(아이트래커) 8. No Participants, No Study|최준혁|[발표자료](비어있음) |	
+| 4 |11/28|(아이트래커) 7. Eye Tracking Measures|윤태웅| |	
+|   | |(아이트래커) 8. No Participants, No Study|윤태웅| |	
 |   | |(파이썬) 4. Numpy 기본 : 배열과 벡터 계산|김성근|[발표자료](https://github.com/psygrammer/psytracker/blob/master/part1/python/pytracker_3.ipynb) | 	
 | 5 |12/12|(아이트래커) 9. It's Tracking Time!|||	
 |   | |(파이썬) 5. pandas 시작하기||| 	
