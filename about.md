@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-* 손고리즘ML(파이썬을 이용한 기계학습 기초) - Middle Learning = Shallow + Deep Machine Learning
-* 스터디 운영주체 : 싸이그래머([페이스북 그룹](https://www.facebook.com/groups/psygrammer/)), 손고리즘([페이스북 그룹](https://www.facebook.com/groups/songorithm/))
-* 스터디 리더 : 김정주, 김무성
+* 싸이트래커 - 심리측정 도구 & 데이터 분석 스터디 (아이트래커, GA, EEG, MRI, fMRI, Python, R)
+* 스터디 운영주체 : 싸이그래머([페이스북 그룹](https://www.facebook.com/groups/psygrammer/))
+* 스터디 리더 : 김성근, 최준혁
+* 이 스터디는 네이버D2의 지원을 받습니다.
 
 ### More Information
 
-* [github](https://github.com/songorithm/ML)
-* [관련 스터디들](http://songorithm.github.io/)
-* [페이스북 그룹](https://www.facebook.com/groups/songorithm/)
+* [github](https://github.com/psygrammer/psytracker)
+* [관련 스터디들](http://psygrammer.github.io/)
+* [페이스북 그룹](https://www.facebook.com/groups/psygrammer/)
 
 
 ### Contact me
