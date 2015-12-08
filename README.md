@@ -1,8 +1,5 @@
-# 손고리즘ML
-
-Middle Learning = Shallow + Deep Machine Learning
-
+# psytracker
 
 
 # 스터디 정보 & 자료
-* http://songorithm.github.io/ML/
+* http://psygrammer.github.io/ML/psytracker
